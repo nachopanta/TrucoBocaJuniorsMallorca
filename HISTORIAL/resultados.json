@@ -1,0 +1,14 @@
+[
+  {
+    "jugador1": "Jugador A",
+    "jugador2": "Jugador B",
+    "division": "División 1",
+    "mes": "Enero"
+  },
+  {
+    "jugador1": "Jugador C",
+    "jugador2": "Jugador D",
+    "division": "División 2",
+    "mes": "Febrero"
+  }
+]
